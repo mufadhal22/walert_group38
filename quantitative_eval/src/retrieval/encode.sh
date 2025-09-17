@@ -14,4 +14,4 @@ python -m pyserini.encode \
   encoder --encoder castorini/$ENCODER \
           --fields text \
           --batch 32 \
-          --device mps 
+          --device cpu 
