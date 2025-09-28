@@ -12,8 +12,8 @@ OUTPUT_PATH = '../../target/runs/walert-intent.txt'
 
 
 def create_qrels(topics_filename, groundtruth_filename):
-    topics = pd.read_csv(topics_filename)
-    groundtruth = pd.read_csv(groundtruth_filename)
+    topics = pd.read_csv(topics_filename, encoding="latin1")
+    groundtruth = pd.read_csv(groundtruth_filename, encoding="latin1")
     
     data = pd.merge(topics, groundtruth, on='topic_id')
     
@@ -27,21 +27,21 @@ def create_qrels(topics_filename, groundtruth_filename):
 
 
 def create_pyserini_collection(collection_filename):
-     collection = pd.read_csv(collection_filename)
+     collection = pd.read_csv(collection_filename, encoding="latin1")
      collection.columns = ['id', 'contents']
      collection.to_json(DATA_DIR + "/collection.jsonl", orient='records', lines=True)   
 
 def create_topics_msmarco_format(topics_filename):
-    topics = pd.read_csv(topics_filename)  
+    topics = pd.read_csv(topics_filename, encoding="latin1")  
     topics = topics[['question_id', 'question']]
     topics.to_csv(DATA_DIR + "/topics.msmarco-format.txt", sep='\t', index=False, header=False)
 
 
 def parse_walert_run(topics_filename, groundtruth_filename, walert_filename, intent_mapping_filename, collection_filename):
-    topics = pd.read_csv(topics_filename)
-    groundtruth = pd.read_csv(groundtruth_filename)
-    intents = pd.read_csv(intent_mapping_filename)
-    collection = pd.read_csv(collection_filename)
+    topics = pd.read_csv(topics_filename, encoding="latin1")
+    groundtruth = pd.read_csv(groundtruth_filename, encoding="latin1")
+    intents = pd.read_csv(intent_mapping_filename, encoding="latin1")
+    collection = pd.read_csv(collection_filename, encoding="latin1")
 
     merged = pd.merge(topics, groundtruth, on='topic_id')
     merged_intents = pd.merge(merged, intents, on='question')

@@ -1,107 +1,132 @@
 topic_id,topic,question_id,question
-W01,what's the difference between CS and SE programs?,W01Q01,What sets apart CS programs from SE programs?
-W01,what's the difference between CS and SE programs?,W01Q02,How do CS and SE programs differ from each other?
-W01,what's the difference between CS and SE programs?,W01Q03,Can you explain the variances between CS and SE programs?
-W01,what's the difference between CS and SE programs?,W01Q04,what's the difference between CS and SE programs?
-W02,What choice of electives available?,W02Q01,Can you describe the range of electives that are on offer?
-W02,What choice of electives available?,W02Q02,What options do I have for selecting elective courses?
-W02,What choice of electives available?,W02Q03,Can you provide details on the available choices of electives?
-W02,What choice of electives available?,W02Q04,What choice of electives available?
-W03,Can I do a double degree with Business?,W03Q01,Is it possible to undertake a double degree with Business?
-W03,Can I do a double degree with Business?,W03Q02,Can I enroll in a double degree program that includes Business?
-W03,Can I do a double degree with Business?,W03Q03,Are there any opportunities for a double degree program involving Business?
-W03,Can I do a double degree with Business?,W03Q04,Can I do a double degree with Business?
-W04,What there double degrees available in CS?,W04Q01,Are there opportunities to pursue double degrees in CS?
-W04,What there double degrees available in CS?,W04Q02,Can students opt for double degrees in the CS field?
-W04,What there double degrees available in CS?,W04Q03,Are there any options for combining CS with another discipline for a double degree?
-W04,What there double degrees available in CS?,W04Q04,What there double degrees available in CS?
-W05,Is RMIT’s Software Engineering degree accredited by Engineers Australia?,W05Q01,Does Engineers Australia accredit RMIT's Software Engineering degree?
-W05,Is RMIT’s Software Engineering degree accredited by Engineers Australia?,W05Q02,Can RMIT's Software Engineering degree be considered accredited by Engineers Australia?
-W05,Is RMIT’s Software Engineering degree accredited by Engineers Australia?,W05Q03,Is the Software Engineering degree at RMIT recognized and accredited by Engineers Australia?
-W05,Is RMIT’s Software Engineering degree accredited by Engineers Australia?,W05Q04,Is RMIT’s Software Engineering degree accredited by Engineers Australia?
-W06,Are these programs accredited by Australian Computer Society?,W06Q01,Are these programs recognized by the Australian Computer Society?
-W06,Are these programs accredited by Australian Computer Society?,W06Q02,Can I expect these programs to be accredited by the Australian Computer Society?
-W06,Are these programs accredited by Australian Computer Society?,W06Q03,Are the programs endorsed by the Australian Computer Society?
-W06,Are these programs accredited by Australian Computer Society?,W06Q04,Are these programs accredited by Australian Computer Society?
-W07,Will the school provide work placements?,W07Q01,Does the school offer work placements?
-W07,Will the school provide work placements?,W07Q02,Will there be opportunities for work placements provided by the school?
-W07,Will the school provide work placements?,W07Q03,Can I expect the school to facilitate work placements?
-W07,Will the school provide work placements?,W07Q04,Will the school provide work placements?
-W08,Are the internships paid?,W08Q01,Are the internships paid positions?
-W08,Are the internships paid?,W08Q02,Can I expect to receive payment for the internships?
-W08,Are the internships paid?,W08Q03,Are the internships remunerated?
-W08,Are the internships paid?,W08Q04,Are the internships paid?
-W09,"Are RMIT degrees Bachelor of Science (BSc) degrees or Bachelor of Engineering (BEng) degrees, or what?",W09Q01,"Are RMIT degrees categorized as Bachelor of Science (BSc) degrees or Bachelor of Engineering (BEng) degrees, or some other designation?"
-W09,"Are RMIT degrees Bachelor of Science (BSc) degrees or Bachelor of Engineering (BEng) degrees, or what?",W09Q02,"Can you clarify whether RMIT degrees are classified as Bachelor of Science (BSc) degrees or Bachelor of Engineering (BEng) degrees, or another category?"
-W09,"Are RMIT degrees Bachelor of Science (BSc) degrees or Bachelor of Engineering (BEng) degrees, or what?",W09Q03,"How are RMIT degrees labeled? Are they referred to as Bachelor of Science (BSc) degrees or Bachelor of Engineering (BEng) degrees, or something else?"
-W09,"Are RMIT degrees Bachelor of Science (BSc) degrees or Bachelor of Engineering (BEng) degrees, or what?",W09Q04,"Are RMIT degrees Bachelor of Science (BSc) degrees or Bachelor of Engineering (BEng) degrees, or what?"
-W10,I didn’t do Math Methods in Year 12. Can I get into CS program somehow?,W10Q01,Is it possible to gain admission to the CS program even if I didn't study Math Methods in Year 12?
-W10,I didn’t do Math Methods in Year 12. Can I get into CS program somehow?,W10Q02,Can I pursue the CS program without having studied Math Methods in Year 12?
-W10,I didn’t do Math Methods in Year 12. Can I get into CS program somehow?,W10Q03,Are there any alternative pathways to enter the CS program if I haven't taken Math Methods in Year 12
-W10,I didn’t do Math Methods in Year 12. Can I get into CS program somehow?,W10Q04,I didn’t do Math Methods in Year 12. Can I get into CS program somehow?
-W11,"If I were to be transferred from IT to CS, will I get full credit for my first year in IT?",W11Q01,Will I receive full credit for my first year in the IT program if I transfer to the CS program?
-W11,"If I were to be transferred from IT to CS, will I get full credit for my first year in IT?",W11Q02,Can I expect my first year in the IT program to be recognized and credited when I switch to the CS program?
-W11,"If I were to be transferred from IT to CS, will I get full credit for my first year in IT?",W11Q03,Will my progress from the first year in the IT program be acknowledged when I transition to the CS program?
-W11,"If I were to be transferred from IT to CS, will I get full credit for my first year in IT?",W11Q04,"If I were to be transferred from IT to CS, will I get full credit for my first year in IT?"
-W12,Can I transfer between programs easily?,W12Q01,Are program transfers relatively straightforward?
-W12,Can I transfer between programs easily?,W12Q02,Is it a smooth process to switch between programs?
-W12,Can I transfer between programs easily?,W12Q03,Can I easily change my program of study if desired?
-W12,Can I transfer between programs easily?,W12Q04,Can I transfer between programs easily?
-W13,"What level of Work Integrated Learning (call it capstone project, placement, industry training, or whatever they call it) available to RMIT CS students?",W13Q01,What options are there for Work Integrated Learning experiences for RMIT CS students?
-W13,"What level of Work Integrated Learning (call it capstone project, placement, industry training, or whatever they call it) available to RMIT CS students?",W13Q02,"Can you provide details about the available capstone projects, placements, and industry training for RMIT CS students?"
-W13,"What level of Work Integrated Learning (call it capstone project, placement, industry training, or whatever they call it) available to RMIT CS students?",W13Q03,"What forms of Work Integrated Learning, such as capstone projects or industry placements, are accessible for RMIT CS students?"
-W13,"What level of Work Integrated Learning (call it capstone project, placement, industry training, or whatever they call it) available to RMIT CS students?",W13Q04,"What level of Work Integrated Learning (call it capstone project, placement, industry training, or whatever they call it) available to RMIT CS students?"
-W14,Is the transfer from associate degree to bachelors automatic?,W14Q01,Can I expect an automatic transfer of credits from an associate degree to a bachelor's degree?
-W14,Is the transfer from associate degree to bachelors automatic?,W14Q02,Will my credits from an associate degree be automatically recognized when I pursue a bachelor's degree?
-W14,Is the transfer from associate degree to bachelors automatic?,W14Q03,Is the transition from an associate degree to a bachelor's degree seamless?
-W14,Is the transfer from associate degree to bachelors automatic?,W14Q04,Is the transfer from associate degree to bachelors automatic?
-W15,"I heard that there is no future in IT industry in Australia, as every IT company has outsourced to India?",W15Q01,Is it accurate to say that the IT industry in Australia has no future as every company outsources to India?
-W15,"I heard that there is no future in IT industry in Australia, as every IT company has outsourced to India?",W15Q02,Are the assertions true that there is no future for the IT industry in Australia because most companies have outsourced to India?
-W15,"I heard that there is no future in IT industry in Australia, as every IT company has outsourced to India?",W15Q03,"I have heard rumors that the IT industry in Australia is being outsourced to India, resulting in a lack of future prospects. Is this information correct?"
-W15,"I heard that there is no future in IT industry in Australia, as every IT company has outsourced to India?",W15Q04,"I heard that there is no future in IT industry in Australia, as every IT company has outsourced to India?"
-W16,"If I do not get the required ATAR to get into IT degree, is the Associate degree a suitable pathway?",W16Q01,Can the Associate degree be considered a suitable pathway if I don't meet the required ATAR for the IT degree?
-W16,"If I do not get the required ATAR to get into IT degree, is the Associate degree a suitable pathway?",W16Q02,Is the Associate degree a viable alternative if I fall short of the required ATAR for the IT degree?
-W16,"If I do not get the required ATAR to get into IT degree, is the Associate degree a suitable pathway?",W16Q03,Is the Associate degree a recommended option if I don't meet the ATAR requirements for the IT degree?
-W16,"If I do not get the required ATAR to get into IT degree, is the Associate degree a suitable pathway?",W16Q04,"If I do not get the required ATAR to get into IT degree, is the Associate degree a suitable pathway?"
-W17,"What kind of jobs, careers available to CS graduates? SE, IT, DS, or whatever degree?",W17Q01,"What employment opportunities and career paths are open to graduates with degrees in CS, SE, IT, DS, or related fields?"
-W17,"What kind of jobs, careers available to CS graduates? SE, IT, DS, or whatever degree?",W17Q02,"Can you elaborate on the job prospects and career options for individuals holding degrees in CS, SE, IT, DS, or similar disciplines?"
-W17,"What kind of jobs, careers available to CS graduates? SE, IT, DS, or whatever degree?",W17Q03,"What types of employment and career possibilities await graduates with degrees in CS, SE, IT, DS, or other relevant fields?"
-W17,"What kind of jobs, careers available to CS graduates? SE, IT, DS, or whatever degree?",W17Q04,"What kind of jobs, careers available to CS graduates? SE, IT, DS, or whatever degree?"
-W18,Can you get a job in games industry here?,W18Q01,Can one find employment opportunities in the game development industry in this region?
-W18,Can you get a job in games industry here?,W18Q02,Is it feasible to obtain a job within the game development industry here?
-W18,Can you get a job in games industry here?,W18Q03,Are there potential career opportunities in the game development sector in this area?
-W18,Can you get a job in games industry here?,W18Q04,Can you get a job in games industry here?
-W19,What’s the difference between Bachelor of CS and Bachelor of CS (Professional) degrees?,W19Q01,What are the disparities between the Bachelor of CS and Bachelor of CS (Professional) degrees?
-W19,What’s the difference between Bachelor of CS and Bachelor of CS (Professional) degrees?,W19Q02,"Can you outline the dissimilarities between the two CS degrees, traditional and Professional?"
-W19,What’s the difference between Bachelor of CS and Bachelor of CS (Professional) degrees?,W19Q03,What sets the Bachelor of CS and Bachelor of CS (Professional) degrees apart from each other?
-W19,What’s the difference between Bachelor of CS and Bachelor of CS (Professional) degrees?,W19Q04,What’s the difference between Bachelor of CS and Bachelor of CS (Professional) degrees?
-W20,What’s the difference between CS and IT programs?,W20Q01,How do CS and IT programs differ from each other?
-W20,What’s the difference between CS and IT programs?,W20Q02,Can you explain the variances between CS and IT programs?
-W20,What’s the difference between CS and IT programs?,W20Q03,What sets apart CS programs from IT programs?
-W20,What’s the difference between CS and IT programs?,W20Q04,What’s the difference between CS and IT programs?
-W21,What are the extra courses I need to take if I transfer from IT to CS?,W21Q01,What are the extra courses I need to take if I transfer from IT to CS?
-W22,What can I do if I don't get work placements as SE student?,W22Q01,What can I do if I don't get work placements as SE student?
-W23,Do CS students need to enrol on industry placement?,W23Q01,Do CS students need to enrol on industry placement?
-W24,What are the job demands for different programs?,W24Q01,What are the job demands for different programs?
-W25,What does the final year of CS program include?,W25Q01,What does the final year of CS program include?
-W26,What is the capstone project?,W26Q01,What is the capstone project?
-W27,How many weeks should we work in the industry placements?,W27Q01,How many weeks should we work in the industry placements?
-W28,How long is Bachelor of CS?,W28Q01,How long is Bachelor of CS?
-W29,Is it possible to take elective courses that are not listed within the program?,W29Q01,Is it possible to take elective courses that are not listed within the program?
-W30,What math requirements are needed for the CS program?,W30Q01,What math requirements are needed for the CS program?
-W31,What math requirements are needed for the IT program?,W31Q01,What math requirements are needed for the IT program?
-W32,"what is ""programming boot camp""?",W32Q01,"what is ""programming boot camp""?"
-W33,What are the minimum requirements for an Associate degree student to successfully transfer to a bachelor's degree,W33Q01,What are the minimum requirements for an Associate degree student to successfully transfer to a bachelor's degree
-W34,What are the programming languages that will be covered in the CS program,W34Q01,What are the programming languages that will be covered in the CS program
-W35,when does the application for program transfer open,W35Q01,when does the application for program transfer open
-W36,"If I am an international student, What is the language level required to study CS",W36Q01,"If I am an international student, What is the language level required to study CS"
-W37,Are there any scholarships for CS bachelor's degree,W37Q01,Are there any scholarships for CS bachelor's degree
-W38,Will RMIT help the student to build a professional network in the CS,W38Q01,Will RMIT help the student to build a professional network in the CS
-W39,Is doing an CS degree a better option than an IT degree in terms of job opportunities?,W39Q01,Does pursuing a CS degree offer better job prospects compared to an IT degree?
-W39,Is doing an CS degree a better option than an IT degree in terms of job opportunities?,W39Q02,"In the aspect of job opportunities, is opting for a CS degree superior to selecting an IT degree?"
-W39,Is doing an CS degree a better option than an IT degree in terms of job opportunities?,W39Q03,Are there more favorable job prospects associated with a CS degree as opposed to an IT degree?
-W39,Is doing an CS degree a better option than an IT degree in terms of job opportunities?,W39Q04,Is doing an CS degree a better option than an IT degree in terms of job opportunities?
-W40,What are the majors required for Data Science,W40Q1,What are the majors required for Data Science
-W41,What are the avlible minors cources for CS that doesnot need an approval,W41Q1,What are the avlible minors cources for CS that doesnot need an approval
-W42,what are the majors avalible for IT without a prerequisite,W42Q1,what are the majors avalible for IT without a prerequisite
-W43,what are the majors avalible for CS without a prerequisite,W43Q1,what are the majors avalible for CS without a prerequisite
+T01,Employee or independent contractor � what�s the difference?,T01Q01,What's the difference between an employee and independent contractor?
+T01,Employee or independent contractor � what�s the difference?,T01Q02,How do I know if I am an Employee or an Independent Contractor?
+T02,Lost or stolen TFN,T02Q01,I lost my TFN. How do I find it?
+T02,Lost or stolen TFN,T02Q02,What do I do if my TFN got stolen?
+T02,Lost or stolen TFN,T02Q03,How do I find my lost TFN?
+T03,How to pay the ATO?,T03Q01,How do I pay my taxes?
+T03,How to pay the ATO?,T03Q02,What are my payment options?
+T03,How to pay the ATO?,T03Q03,How should I pay the ATO?
+T04,Need to lodge under tax-free threshold,T04Q01,Do I need to lodge a tax return if I earn less than $18200?
+T04,Need to lodge under tax-free threshold,T04Q02,If my income is under the tax-free threshold do I have to lodge a tax return?
+T05,Documents for first tax return,T05Q01,What documents do I need for my first tax return?
+T05,Documents for first tax return,T05Q02,What should I have ready before lodging my first tax return?
+T06,International student tax lodging,T06Q01,As an international student how do I lodge my tax return?
+T06,International student tax lodging,T06Q02,What should international students know about lodging tax returns?
+T07,Medicare levy exemption for foreign resident,T07Q01,How can a foreign resident claim a Medicare levy exemption?
+T07,Medicare levy exemption for foreign resident,T07Q02,Do non-citizens need to pay the Medicare levy?
+T08,Applying for a Tax File Number,T08Q01,How do I apply for a Tax File Number in Australia?
+T08,Applying for a Tax File Number,T08Q02,What are the steps to get a TFN as a new immigrant?
+T09,Paying the ATO using BPAY,T09Q01,How do I pay the ATO using BPAY?
+T09,Paying the ATO using BPAY,T09Q02,What is the process for paying tax to the ATO via BPAY?
+T10,Missing payments with BPAY,T10Q01,I paid my tax using BPAY but it hasn't reflected on my account
+T10,Missing payments with BPAY,T10Q02,I paid through BPAY but it doesn't show on my account
+T11,Missing payments using Credit/Debit Card,T11Q01,I paid my tax using a credit card but it hasn't shown on my account
+T11,Missing payments using Credit/Debit Card,T11Q02,I paid my tax using a debit card but it hasn't reflected on my account yet
+T11,Missing payments using Credit/Debit Card,T11Q03,I paid my tax using my card but it hasn't reflected on my account yet
+T12,Failure to lodge on time penalty,T12Q01,What is an FTL penalty?
+T12,Failure to lodge on time penalty,T12Q02,What is a failure to lodge on time penalty?
+T13,Private health insurance rebate eligibility,T13Q01,Am I eligible for the private health insurance rebate?
+T13,Private health insurance rebate eligibility,T13Q02,What's the requirements to be able to claim the private health insurance rebate?
+T14,Complying health insurance policy,T14Q01,What's a complying health insurance policy?
+T14,Complying health insurance policy,T14Q02,How to check if my health insurance policy is complying?
+T15,Claiming the private health insurance rebate,T15Q01,How do I claim the private health insurance rebate?
+T15,Claiming the private health insurance rebate,T15Q02,What should I do to claim the private health insurance rebate?
+T16,Superannuation,T16Q01,What is Super?
+T16,Superannuation,T16Q02,What is superannuation?
+T17,Claiming rental expenses,T17Q01,How do I claim my rental expenses?
+T17,Claiming rental expenses,T17Q02,What should I do if I want to claim some rental expenses?
+T18,Positive/Negative Gearing,T18Q01,What is positive and negative gearing?
+T18,Positive/Negative Gearing,T18Q02,How to know if my rental property is positive or negative geared?
+T19,Rental Expenses in Tax Return,T19Q01,How do I include my rental expenses in my tax return?
+T19,Rental Expenses in Tax Return,T19Q02,I'm filing my own tax return. How do I account for my rental expenses?
+T20,Study / Training Support Loans,T20Q01,What is a student loan?
+T20,Study / Training Support Loans,T20Q02,What is a study loan?
+T20,Study / Training Support Loans,T20Q03,What is a training support loan?
+T21,GST,T21Q01,What is GST?
+T21,GST,T21Q02,How does GST work?
+T22,Tax Invoices,T22Q01,When should I issue a tax invoice?
+T22,Tax Invoices,T22Q02,A customer asked me for a tax invoice. What should I include in it?
+T22,Tax Invoices,T22Q03,What should be included in a tax invoice?
+T23,Tax Invoices - Sales under $1000,T23Q01,What details should a tax invoice concerning a sale under $1000 contain?
+T23,Tax Invoices - Sales under $1000,T23Q02,What information must be in a tax invoice for a sale under $1000?
+T24,Tax Invoices - Sales over $1000,T24Q01,What details should a tax invoice concerning a sale over $1000 contain?
+T24,Tax Invoices - Sales over $1000,T24Q02,What information must be in a tax invoice for a sale over $1000?
+T25,Business Taxable Income,T25Q01,How do I calculate the taxable income of my business?
+T25,Business Taxable Income,T25Q02,How to calculate taxable business income?
+T25,Business Taxable Income,T25Q03,What is the formula to calculate business taxable income?
+T26,Assessable Business Income,T26Q01,What is assessable business income?
+T26,Assessable Business Income,T26Q02,What does assessable income mean for businesses?
+T27,Included incomes in Assessable Income,T27Q01,What incomes should I include when calculating assessable income?
+T27,Included incomes in Assessable Income,T27Q02,What incomes fall under assessable income?
+T27,Included incomes in Assessable Income,T27Q03,Explain what incomes need to be included for assessable business income
+T28,Excluded incomes in Assessable Income,T28Q01,What incomes fall under non-assessable income?
+T28,Excluded incomes in Assessable Income,T28Q02,What incomes should I exclude when calculating assessable income?
+T28,Excluded incomes in Assessable Income,T28Q03,Explain what incomes need to be excluded for assessable business income
+T29,Non-assessable Non-exempt Government Grants,T29Q01,What is a Non-assessable Non-exempt government grant?
+T29,Non-assessable Non-exempt Government Grants,T29Q02,What is NANE?
+T29,Non-assessable Non-exempt Government Grants,T29Q03,Should I include NANE in my tax return?
+T29,Non-assessable Non-exempt Government Grants,T29Q04,Should I include pay taxes for NANE government grants?
+T30,Tax Bills,T30Q01,When would I get a tax bill?
+T30,Tax Bills,T30Q02,What is a tax bill?
+T31,Paying Tax Bills,T31Q01,How do I pay for a potential tax bill?
+T31,Paying Tax Bills,T31Q02,What payment methods can I use to pay my tax bills?
+T31,Paying Tax Bills,T31Q03,What are the payment options for paying off a tax bill?
+T32,Division 7A,T32Q01,What is Division 7A?
+T32,Division 7A,T32Q02,What does Division 7A mean?
+T33,Division 7A Dividends,T33Q01,What is a dividend for income tax purposes under Division 7A?
+T33,Division 7A Dividends,T33Q02,When does Division 7A apply?
+T34,Tax Governance,T34Q01,What is Tax governance?
+T34,Tax Governance,T34Q02,What does tax governance mean?
+T34,Tax Governance,T34Q03,Explain Tax Governance
+T35,Fringe Benefits Tax (FBT),T35Q01,What is Fringe Benefits Tax?
+T35,Fringe Benefits Tax (FBT),T35Q02,What is FBT?
+T35,Fringe Benefits Tax (FBT),T35Q03,What does FBT mean?
+T35,Fringe Benefits Tax (FBT),T35Q04,What does Fringe Benefits Tax mean?
+T35,Fringe Benefits Tax (FBT),T35Q05,Explain Fringe Benefits Tax
+T36,Fringe Benefits,T36Q01,What is a Fringe Benefit?
+T36,Fringe Benefits,T36Q02,What are the type of fringe benefits?
+T36,Fringe Benefits,T36Q03,What are some examples of fringe benefits?
+T36,Fringe Benefits,T36Q04,What does fringe benefits mean?
+T37,Fringe Benefits Recepients,T37Q01,Who recieves Fringe Benefits?
+T37,Fringe Benefits Recepients,T37Q02,Who is the recipient of Fringe benefits?
+T38,Fringe Benefits Payors,T38Q01,Who pays fringe benefits?
+T38,Fringe Benefits Payors,T38Q02,Who are the payors of fringe benefits?
+T39,Payable FBT Amount,T39Q01,How much FBT should I pay?
+T39,Payable FBT Amount,T39Q02,How much in Fringe Benefits Tax should I pay?
+T40,Deductions for Fringe Benefits,T40Q01,Can I claim deductions on my income tax for providing fringe benefits?
+T40,Deductions for Fringe Benefits,T40Q02,On what can I claim an income tax deduction for with regards to fringe benefits or FBT?
+T41,Online services for agents,T41Q01,What is online services for agents?
+T41,Online services for agents,T41Q02,What is ATO Online services for agents?
+T42,System Requirements for Online Services,T42Q01,What are the system requirements for me to use online services?
+T42,System Requirements for Online Services,T42Q02,System requirements to use online services
+T42,System Requirements for Online Services,T42Q03,What requirements do I have to meet to use the system?
+T43,Minimum System Requirements - Computer,T43Q01,What are the minimum requirements my computer has to meet in order o use online services?
+T43,Minimum System Requirements - Computer,T43Q02,Minimum System Requirements that need to be met so I can run the system on my computer
+T44,Online Services uses for tax agents,T44Q01,What can I use the online services for as a tax agent?
+T44,Online Services uses for tax agents,T44Q02,What are the benefits of using online services as a tax agent?
+T45,Paying the ATO - Tax Agents,T45Q01,What methods are my clients given to pay the ATO?
+T45,Paying the ATO - Tax Agents,T45Q02,What payment methods do my clients have when paying the ATO?
+T45,Paying the ATO - Tax Agents,T45Q03,How to pay the ATO on behalf of my clients?
+T46,Client unable to pay on time,T46Q01,What should I do if my client can't pay his taxes on time?
+T46,Client unable to pay on time,T46Q02,What must be done for a client that is unable to meet his tax debt on time?
+T46,Client unable to pay on time,T46Q03,What arrangments can I make for a client that can't pay his taxes on time?
+T47,Interest and Penalties,T47Q01,When do interest and penalties apply?
+T48,Preparing for Tax Time,T48Q01,What should I do as a tax agent to prepare for tax time?
+T48,Preparing for Tax Time,T48Q02,How should I prepare for tax time?
+T48,Preparing for Tax Time,T48Q03,How should I prepare to lodge my clients tax returns?
+T49,Client Details for Tax Time,T49Q01,What details do I need from my clients for tax time?
+T49,Client Details for Tax Time,T49Q02,What details should my clients provide to me so I can lodge their tax returns?
+T50,Tax offsets for people with disability,T50Q01,Do disabled people get tax offsets?
+T50,Tax offsets for people with disability,T50Q02,What tax offsets do disabled people get?
+T51,Tax concessions on cars for people with disability,T51Q01,Do disabled people get Tax Concessions for their cars?
+T51,Tax concessions on cars for people with disability,T51Q02,What tax concessions do disabled people with cars get?
+T52,Lodging a final return for a deceased person,T52Q01,Do I need to lodge a tax return for a deceased person?
+T53,Who can lodge a date of death tax return,T53Q01,Who should lodge a date of death tax return?
+T53,Who can lodge a date of death tax return,T53Q02,Who should lodge a tax return for a deceased person?
+T54,Checklist for finalising the estate's tax affairs,T54Q01,What is the checklist for finalising the estate's tax affairs?
+T54,Checklist for finalising the estate's tax affairs,T54Q02,What should I include to finalise the estate's tax affairs?
+T54,Checklist for finalising the estate's tax affairs,T54Q03,What is the tax affairs finalization checklist for the estate?
+T55,Inherited Property exempt from Capital Gains Tax,T55Q01,How to know if my inherited property is exempt from capital gains tax?
+T55,Inherited Property exempt from Capital Gains Tax,T55Q02,Is my inherited property free from CGT?
+T55,Inherited Property exempt from Capital Gains Tax,T55Q03,How can I determine whether the property I inherited is free from capital gains tax?
