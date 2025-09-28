@@ -7,8 +7,8 @@ import whisper
 import os
 from pyserini.search import FaissSearcher
 import pandas as pd
-from transformers import AutoTokenizer, AutoModelForCausalLM
-import transformers
+# from transformers import AutoTokenizer, AutoModelForCausalLM
+# import transformers
 import torch
 from gtts import gTTS
 from pydub import AudioSegment
@@ -16,6 +16,7 @@ import pygame
 import time
 import os
 import logging
+import subprocess
 
 logging.basicConfig(filename='voice_assistant.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
@@ -40,7 +41,14 @@ def play_voice_response(text):
     pygame.mixer.init()
     pygame.mixer.music.load("response.wav")
     pygame.mixer.music.play()
-    time.sleep(5)
+
+
+    # time.sleep(5)
+    while pygame.mixer.music.get_busy():
+        time.sleep(0.1)
+    pygame.mixer.music.stop()
+    pygame.mixer.quit()
+    pygame.quit()
 
     os.remove("response.wav")
     os.remove("response.mp3")
@@ -60,25 +68,25 @@ def get_answer(text):
     return answer
 
 
-def load_model(model_id):
-    model_id = "tiiuae/falcon-7b-instruct"
+# def load_model(model_id):
+#     model_id = "tiiuae/falcon-7b-instruct"
 
-    tokenizer = AutoTokenizer.from_pretrained(model_id)
-    model = AutoModelForCausalLM.from_pretrained(model_id, trust_remote_code=True)
+#     tokenizer = AutoTokenizer.from_pretrained(model_id)
+#     model = AutoModelForCausalLM.from_pretrained(model_id, trust_remote_code=True)
 
-    pipeline = transformers.pipeline(
-        "text-generation",
-        model=model,
-        tokenizer=tokenizer,
-        torch_dtype=torch.bfloat16,
-        trust_remote_code=True,
-        device_map="auto")
+#     pipeline = transformers.pipeline(
+#         "text-generation",
+#         model=model,
+#         tokenizer=tokenizer,
+#         torch_dtype=torch.bfloat16,
+#         trust_remote_code=True,
+#         device_map="auto")
 
-    return pipeline, tokenizer
+#     return pipeline, tokenizer
 
 
-model_name = "tiiuae/falcon-7b-instruct"
-PIPELINE, TOKENIZER = load_model(model_name)
+# model_name = "tiiuae/falcon-7b-instruct"
+# PIPELINE, TOKENIZER = load_model(model_name)
 
 DATA_DIR = "../../data"
 
@@ -131,6 +139,26 @@ def generate_answer(question, context, pipeline, tokenizer):
     return gen_answer
 
 
+def generate_answer_ollama(question, context, model="deepseek-r1:8b"):
+    """
+    Generate text using Ollama local LLM.
+    """
+
+    static_prompt = "Generate an answer to be synthesized with text-to-speech for a virtual assisstant, the answer should be based on the retrieved documents for the following question. If the retrieved documents are not related to the question, then answer NA."
+    prompt_base = static_prompt + "\n Question: " + question + "\n Document 1: " + context[0] + "\n Document 2: " + \
+                  context[1] + "\n Document 3: " + context[2] + "Please start your response with 'Answer:'"
+                  
+    result = subprocess.run(
+        ["ollama", "run", model, prompt_base],
+        capture_output=True,
+        text=True,
+        encoding='utf-8',   # force UTF-8
+        errors='replace'    # optional: replace invalid characters
+    )
+
+    return [{'generated_text': result.stdout.strip()}]
+
+
 # Create a callback function to stop the recording
 def callback(indata, frames, time, status):
     print("...")
@@ -179,9 +207,11 @@ if __name__ == '__main__':
     logging.info(f"Retrieval Completed")
     # ************ Response Generation in Text ************
     logging.info(f"Initiating response generation using Falcon")
-    llm_result = generate_answer(question, RAG_context_passages, PIPELINE, TOKENIZER)
+    # llm_result = generate_answer(question, RAG_context_passages, PIPELINE, TOKENIZER)
+    
+    llm_result = generate_answer_ollama(question, RAG_context_passages, model="deepseek-r1:8b")
 
-    response_text = get_answer(llm_result[0]['generated_text'])
+    response_text = get_answer( [0]['generated_text'])
 
     logging.info(f"Response generation completed (text format): {response_text}")
     # ************ Voice Response ************

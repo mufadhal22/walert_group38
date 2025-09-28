@@ -1,0 +1,315 @@
+2025-09-18 12:26:36,910 - INFO - Starting the voice assistant...
+2025-09-18 12:27:06,713 - INFO - User's voice query successfully recorded and store as user_voice_query.wav
+2025-09-18 12:27:11,655 - INFO - User's voice query trasncribed:  What's the difference between CS and SE course program?
+2025-09-18 12:27:11,655 - INFO - Initiating retrieval . . .
+2025-09-18 12:27:11,837 - INFO - Retrieval Completed
+2025-09-18 12:27:11,837 - INFO - Initiating response generation using Falcon
+2025-09-18 12:27:11,890 - INFO - Response generation completed (text format): I apologize, I have no knowledge about that
+2025-09-18 12:27:11,890 - INFO - Initiating voice response (audio format)
+2025-09-18 12:35:25,768 - INFO - Starting the voice assistant...
+2025-09-18 12:35:33,879 - INFO - User's voice query successfully recorded and store as user_voice_query.wav
+2025-09-18 12:35:38,227 - INFO - User's voice query trasncribed:  What's the difference between software engineering and computer science?
+2025-09-18 12:35:38,228 - INFO - Initiating retrieval . . .
+2025-09-18 12:40:40,646 - INFO - Starting the voice assistant...
+2025-09-18 12:40:47,185 - INFO - User's voice query successfully recorded and store as user_voice_query.wav
+2025-09-18 12:40:51,344 - INFO - User's voice query trasncribed:  What's the difference between computer science and software engineering?
+2025-09-18 12:40:51,345 - INFO - Initiating retrieval . . .
+2025-09-18 12:40:51,508 - INFO - Retrieval Completed
+2025-09-18 12:40:51,508 - INFO - Initiating response generation using Falcon
+2025-09-18 13:12:24,623 - INFO - Starting the voice assistant...
+2025-09-18 13:12:32,020 - INFO - User's voice query successfully recorded and store as user_voice_query.wav
+2025-09-18 13:12:36,342 - INFO - User's voice query trasncribed:  Now it's a difference between CS and software engineering.
+2025-09-18 13:12:36,342 - INFO - Initiating retrieval . . .
+2025-09-18 13:12:36,499 - INFO - Retrieval Completed
+2025-09-18 13:12:36,500 - INFO - Initiating response generation using Falcon
+2025-09-18 13:13:17,769 - INFO - Starting the voice assistant...
+2025-09-18 13:13:23,031 - INFO - User's voice query successfully recorded and store as user_voice_query.wav
+2025-09-18 13:13:27,124 - INFO - User's voice query trasncribed:  What's the difference between CS and software engineering?
+2025-09-18 13:13:27,124 - INFO - Initiating retrieval . . .
+2025-09-18 13:13:27,269 - INFO - Retrieval Completed
+2025-09-18 13:13:27,269 - INFO - Initiating response generation using Falcon
+2025-09-18 13:14:18,102 - INFO - Starting the voice assistant...
+2025-09-18 13:14:26,435 - INFO - User's voice query successfully recorded and store as user_voice_query.wav
+2025-09-18 13:14:30,415 - INFO - User's voice query trasncribed:  What's the difference between computer science and software engineering?
+2025-09-18 13:14:30,415 - INFO - Initiating retrieval . . .
+2025-09-18 13:14:30,552 - INFO - Retrieval Completed
+2025-09-18 13:14:30,553 - INFO - Initiating response generation using Falcon
+2025-09-18 13:15:20,097 - INFO - Starting the voice assistant...
+2025-09-18 13:15:26,048 - INFO - User's voice query successfully recorded and store as user_voice_query.wav
+2025-09-18 13:15:30,033 - INFO - User's voice query trasncribed:  What's the difference between software engineering and computer science?
+2025-09-18 13:15:30,033 - INFO - Initiating retrieval . . .
+2025-09-18 13:15:30,186 - INFO - Retrieval Completed
+2025-09-18 13:15:30,186 - INFO - Initiating response generation using Falcon
+2025-09-18 13:17:23,945 - INFO - Starting the voice assistant...
+2025-09-18 13:17:38,637 - INFO - User's voice query successfully recorded and store as user_voice_query.wav
+2025-09-18 13:17:42,746 - INFO - User's voice query trasncribed:  What's the difference between computer science and software engineering?
+2025-09-18 13:17:42,746 - INFO - Initiating retrieval . . .
+2025-09-18 13:17:42,939 - INFO - Retrieval Completed
+2025-09-18 13:17:42,940 - INFO - Initiating response generation using Falcon
+2025-09-18 13:22:22,709 - INFO - Starting the voice assistant...
+2025-09-18 13:22:28,724 - INFO - User's voice query successfully recorded and store as user_voice_query.wav
+2025-09-18 13:22:32,795 - INFO - User's voice query trasncribed:  What's the difference between computer science and software engineering?
+2025-09-18 13:22:32,796 - INFO - Initiating retrieval . . .
+2025-09-18 13:22:32,944 - INFO - Retrieval Completed
+2025-09-18 13:22:32,944 - INFO - Initiating response generation using Falcon
+2025-09-18 13:23:03,855 - INFO - Starting the voice assistant...
+2025-09-18 13:23:11,515 - INFO - User's voice query successfully recorded and store as user_voice_query.wav
+2025-09-18 13:23:15,877 - INFO - User's voice query trasncribed:  What's the difference between software engineering and computer science?
+2025-09-18 13:23:15,878 - INFO - Initiating retrieval . . .
+2025-09-18 13:23:16,013 - INFO - Retrieval Completed
+2025-09-18 13:23:16,013 - INFO - Initiating response generation using Falcon
+2025-09-18 13:28:38,525 - INFO - Starting the voice assistant...
+2025-09-18 13:28:44,105 - INFO - User's voice query successfully recorded and store as user_voice_query.wav
+2025-09-18 13:28:48,139 - INFO - User's voice query trasncribed:  What's the difference between computer science and software engineering?
+2025-09-18 13:28:48,140 - INFO - Initiating retrieval . . .
+2025-09-18 13:28:48,293 - INFO - Retrieval Completed
+2025-09-18 13:28:48,295 - INFO - Initiating response generation using Falcon
+2025-09-18 13:30:08,426 - INFO - Starting the voice assistant...
+2025-09-18 13:30:13,590 - INFO - User's voice query successfully recorded and store as user_voice_query.wav
+2025-09-18 13:30:17,660 - INFO - User's voice query trasncribed:  What's the difference between computer science and software engineering?
+2025-09-18 13:30:17,661 - INFO - Initiating retrieval . . .
+2025-09-18 13:30:17,805 - INFO - Retrieval Completed
+2025-09-18 13:30:17,806 - INFO - Initiating response generation using Falcon
+2025-09-18 13:42:33,422 - INFO - Starting the voice assistant...
+2025-09-18 13:42:38,894 - INFO - User's voice query successfully recorded and store as user_voice_query.wav
+2025-09-18 13:42:42,987 - INFO - User's voice query trasncribed:  What's the difference between computer science and software engineering?
+2025-09-18 13:42:42,987 - INFO - Initiating retrieval . . .
+2025-09-18 13:42:43,142 - INFO - Retrieval Completed
+2025-09-18 13:42:43,142 - INFO - Initiating response generation using Falcon
+2025-09-18 14:53:44,310 - INFO - Starting the voice assistant...
+2025-09-18 14:53:49,813 - INFO - User's voice query successfully recorded and store as user_voice_query.wav
+2025-09-18 14:53:56,026 - INFO - User's voice query trasncribed:  What's the difference between computer science and software engineering?
+2025-09-18 14:53:56,028 - INFO - Initiating retrieval . . .
+2025-09-18 14:53:57,881 - INFO - Retrieval Completed
+2025-09-18 14:53:57,882 - INFO - Initiating response generation using Falcon
+2025-09-18 14:58:50,904 - INFO - Starting the voice assistant...
+2025-09-18 14:58:56,690 - INFO - User's voice query successfully recorded and store as user_voice_query.wav
+2025-09-18 14:59:00,789 - INFO - User's voice query trasncribed:  What's the difference between software engineering and computer science?
+2025-09-18 14:59:00,790 - INFO - Initiating retrieval . . .
+2025-09-18 14:59:01,022 - INFO - Retrieval Completed
+2025-09-18 14:59:01,022 - INFO - Initiating response generation using Falcon
+2025-09-18 15:02:25,136 - INFO - Response generation completed (text format): Based on the retrieved documents:
+
+The initial two years in both Software Engineering and Computer Science are very similar, covering foundational topics. The key differences emerge later:
+
+1.  **Industry Experience:** Software Engineering students typically dedicate a full year to an industry placement after the second year (as mentioned in Documents 1-3). This allows them to gain hands-on experience encompassing all software development phases.
+2.  **Final Year Focus:**
+    *   **Software Engineering:** Usually focuses on completing a larger, often in-house project and taking more electives related directly to software application development and engineering practices (as mentioned in Documents 1-3).
+    *   **Computer Science:** Often emphasizes core computer science theory courses alongside various electives.
+
+Essentially, the divergence occurs with an industry year for Software Engineering students followed by a different final-year structure focusing on applied projects versus theoretical/core topics.
+2025-09-18 15:02:25,137 - INFO - Initiating voice response (audio format)
+2025-09-18 15:09:24,517 - INFO - Starting the voice assistant...
+2025-09-18 15:09:31,302 - INFO - User's voice query successfully recorded and store as user_voice_query.wav
+2025-09-18 15:09:35,171 - INFO - User's voice query trasncribed:  What's the difference between software engineering and computer science?
+2025-09-18 15:09:35,172 - INFO - Initiating retrieval . . .
+2025-09-18 15:09:35,331 - INFO - Retrieval Completed
+2025-09-18 15:09:35,331 - INFO - Initiating response generation using Falcon
+2025-09-18 15:13:24,612 - INFO - Response generation completed (text format): Based on the retrieved documents:
+
+1.  **Initial Years (First Two Years):** The first two years of study for both Software Engineering and Computer Science programs are quite similar in their course structures.
+2.  **Industry Experience:** Software Engineering students typically spend a dedicated year-long period undertaking an industry placement or engagement, where they experience the practical aspects of software development firsthand.
+3.  **Final Year Differences:**
+    *   **Software Engineering:** Focuses on larger, more complex "in-house" projects and often includes additional electives beyond core coursework.
+    *   **Computer Science:** Tends to emphasize a broader base of core theoretical courses alongside various electives.
+
+Essentially, the main difference lies in the mandatory industry experience component within Software Engineering programs during their third year equivalent.
+2025-09-18 15:13:24,613 - INFO - Initiating voice response (audio format)
+2025-09-18 15:18:21,862 - INFO - Starting the voice assistant...
+2025-09-18 15:18:26,822 - INFO - User's voice query successfully recorded and store as user_voice_query.wav
+2025-09-18 15:18:30,753 - INFO - User's voice query trasncribed:  Our internship paid.
+2025-09-18 15:18:30,754 - INFO - Initiating retrieval . . .
+2025-09-18 15:18:30,893 - INFO - Retrieval Completed
+2025-09-18 15:18:30,894 - INFO - Initiating response generation using Falcon
+2025-09-18 15:20:15,862 - INFO - Response generation completed (text format): Based on Document 1, 2 and 3, yes, by government mandate in Australia, all internships conducted within Australia must be paid. However, if you choose an internship located outside of Australia, the pay regulations applicable would be those of the host country where the internship takes place.
+2025-09-18 15:20:15,862 - INFO - Initiating voice response (audio format)
+2025-09-18 15:20:44,331 - INFO - Conversation turn completed.
+2025-09-18 15:21:14,300 - INFO - Starting the voice assistant...
+2025-09-18 15:21:21,343 - INFO - User's voice query successfully recorded and store as user_voice_query.wav
+2025-09-18 15:21:25,352 - INFO - User's voice query trasncribed:  What's the difference between software engineering and computer science?
+2025-09-18 15:21:25,353 - INFO - Initiating retrieval . . .
+2025-09-18 15:21:25,488 - INFO - Retrieval Completed
+2025-09-18 15:21:25,488 - INFO - Initiating response generation using Falcon
+2025-09-18 15:39:05,333 - INFO - Response generation completed (text format): Initially, Software Engineering (SE) and Computer Science (CS) programs are similar. However, from the third year onwards, key differences emerge. SE students typically undertake a full-year industrial placement to gain practical software development experience. In contrast, CS courses maintain more of an academic focus throughout.
+
+The final year also differs slightly: SE students usually complete a major in-house project and additional electives, while CS students often concentrate on core computer science subjects along with their chosen electives.
+</think>
+Answer: Initially, Software Engineering (SE) and Computer Science (CS) programs are similar. However, from the third year onwards, key differences emerge. SE students typically undertake a full-year industrial placement to gain practical software development experience. In contrast, CS courses maintain more of an academic focus throughout.
+
+The final year also differs slightly: SE students usually complete a major in-house project and additional electives, while CS students often concentrate on core computer science subjects along with their chosen electives.
+Answer: Initially, Software Engineering (SE) and Computer Science (CS) programs are similar. However, from the third year onwards, key differences emerge. SE students typically undertake a full-year industrial placement to gain practical software development experience. In contrast, CS courses maintain more of an academic focus throughout.
+
+The final year also differs slightly: SE students usually complete a major in-house project and additional electives, while CS students often concentrate on core computer science subjects along with their chosen electives.
+Answer: Initially, Software Engineering (SE) and Computer Science (CS) programs are similar. However, from the third year onwards, key differences emerge. SE students typically undertake a full-year industrial placement to gain practical software development experience. In contrast, CS courses maintain more of an academic focus throughout.
+
+The final year also differs slightly: SE students usually complete a major in-house project and additional electives, while CS students often concentrate on core computer science subjects along with their chosen electives.
+Answer: Initially, Software Engineering (SE) and Computer Science (CS) programs are similar. However, from the third year onwards, key differences emerge. SE students typically undertake a full-year industrial placement to gain practical software development experience. In contrast, CS courses maintain more of an academic focus throughout.
+
+The final year also differs slightly: SE students usually complete a major in-house project and additional electives, while CS students often concentrate on core computer science subjects along with their chosen electives.
+Answer: Initially, Software Engineering (SE) and Computer Science (CS) programs are similar. However, from the third year onwards, key differences emerge. SE students typically undertake a full-year industrial placement to gain practical software development experience. In contrast, CS courses maintain more of an academic focus throughout.
+
+The final year also differs slightly: SE students usually complete a major in-house project and additional electives, while CS students often concentrate on core computer science subjects along with their chosen electives.
+Answer: Initially, Software Engineering (SE) and Computer Science (CS) programs are similar. However, from the third year onwards, key differences emerge. SE students typically undertake a full-year industrial placement to gain practical software development experience. In contrast, CS courses maintain more of an academic focus throughout.
+
+The final year also differs slightly: SE students usually complete a major in-house project and additional electives, while CS students often concentrate on core computer science subjects along with their chosen electives.
+Answer: Initially, Software Engineering (SE) and Computer Science (CS) programs are similar. However, from the third year onwards, key differences emerge. SE students typically undertake a full-year industrial placement to gain practical software development experience. In contrast, CS courses maintain more of an academic focus throughout.
+
+The final year also differs slightly: SE students usually complete a major in-house project and additional electives, while CS students often concentrate on core computer science subjects along with their chosen electives.
+Answer: Initially, Software Engineering (SE) and Computer Science (CS) programs are similar. However, from the third year onwards, key differences emerge. SE students typically undertake a full-year industrial placement to gain practical software development experience. In contrast, CS courses maintain more of an academic focus throughout.
+
+The final year also differs slightly: SE students usually complete a major in-house project and additional electives, while CS students often concentrate on core computer science subjects along with their chosen electives.
+Answer: Initially, Software Engineering (SE) and Computer Science (CS) programs are similar. However, from the third year onwards, key differences emerge. SE students typically undertake a full-year industrial placement to gain practical software development experience. In contrast, CS courses maintain more of an academic focus throughout.
+
+The final year also differs slightly: SE students usually complete a major in-house project and additional electives, while CS students often concentrate on core computer science subjects along with their chosen electives.
+Answer: Initially, Software Engineering (SE) and Computer Science (CS) programs are similar. However, from the third year onwards, key differences emerge. SE students typically undertake a full-year industrial placement to gain practical software development experience. In contrast, CS courses maintain more of an academic focus throughout.
+
+The final year also differs slightly: SE students usually complete a major in-house project and additional electives, while CS students often concentrate on core computer science subjects along with their chosen electives.
+Answer: Initially, Software Engineering (SE) and Computer Science (CS) programs are similar. However, from the third year onwards, key differences emerge. SE students typically undertake a full-year industrial placement to gain practical software development experience. In contrast, CS courses maintain more of an academic focus throughout.
+
+The final year also differs slightly: SE students usually complete a major in-house project and additional electives, while CS students often concentrate on core computer science subjects along with their chosen electives.
+Answer: Initially, Software Engineering (SE) and Computer Science (CS) programs are similar. However, from the third year onwards, key differences emerge. SE students typically undertake a full-year industrial placement to gain practical software development experience. In contrast, CS courses maintain more of an academic focus throughout.
+
+The final year also differs slightly: SE students usually complete a major in-house project and additional electives, while CS students often concentrate on core computer science subjects along with their chosen electives.
+Answer: Initially, Software Engineering (SE) and Computer Science (CS) programs are similar. However, from the third year onwards, key differences emerge. SE students typically undertake a full-year industrial placement to gain practical software development experience. In contrast, CS courses maintain more of an academic focus throughout.
+
+The final year also differs slightly: SE students usually complete a major in-house project and additional electives, while CS students often concentrate on core computer science subjects along with their chosen electives.
+Answer: Initially, Software Engineering (SE) and Computer Science (CS) programs are similar. However, from the third year onwards, key differences emerge. SE students typically undertake a full-year industrial placement to gain practical software development experience. In contrast, CS courses maintain more of an academic focus throughout.
+
+The final year also differs slightly: SE students usually complete a major in-house project and additional electives, while CS students often concentrate on core computer science subjects along with their chosen electives.
+Answer: Initially, Software Engineering (SE) and Computer Science (CS) programs are similar. However, from the third year onwards, key differences emerge. SE students typically undertake a full-year industrial placement to gain practical software development experience. In contrast, CS courses maintain more of an academic focus throughout.
+
+The final year also differs slightly: SE students usually complete a major in-house project and additional electives, while CS students often concentrate on core computer science subjects along with their chosen electives.
+Answer: Initially, Software Engineering (SE) and Computer Science (CS) programs are similar. However, from the third year onwards, key differences emerge. SE students typically undertake a full-year industrial placement to gain practical software development experience. In contrast, CS courses maintain more of an academic focus throughout.
+
+The final year also differs slightly: SE students usually complete a major in-house project and additional electives, while CS students often concentrate on core computer science subjects along with their chosen electives.
+Answer: Initially, Software Engineering (SE) and Computer Science ( (CS)) programs are similar. However, from the third year onwards, key differences emerge. SE students typically undertake a full-year industrial placement to gain practical software development experience. In contrast, CS courses maintain more of an academic focus throughout.
+
+The final year also differs slightly: SE students usually complete a major in-house project and additional electives, while CS students often concentrate on core computer science subjects along with their chosen electives.
+Answer: Initially, Software Engineering (SE) and Computer Science (CS)) programs are similar. However, from the third year onwards, key differences emerge. SE students typically undertake a full-year industrial placement to gain practical software development experience. In contrast, CS courses maintain more of an academic focus throughout.
+
+The final year also differs slightly: SE students usually complete a major in-house project and additional electives, while CS students often concentrate on core computer science subjects along with their chosen electives.
+Answer: Initially, Software Engineering (SE) and Computer Science (CS)) programs are similar. However, from the third year onwards, key differences emerge. SE students typically undertake a full-year industrial placement to gain practical software development experience. In contrast, CS courses maintain more of an academic focus throughout.
+
+The final year also differs slightly: SE students usually complete a major in-house project and additional electives, while CS students often concentrate on core computer science subjects along with their chosen electives.
+Answer: Initially, Software Engineering (SE) and Computer Science (CS)) programs are similar. However, from the third year onwards, key differences emerge. SE students typically undertake a full-year industrial placement to gain practical software development experience. In contrast, CS courses maintain more of an academic focus throughout.
+
+The final year also differs slightly: SE students usually complete a major in-house project and additional electives, while CS students often concentrate on core computer science subjects along with their chosen electives.
+Answer: Initially, Software Engineering (SE) and Computer Science (CS)) programs are similar. However, from the third year onwards, key differences emerge. SE students typically undertake a full-year industrial placement to gain practical software development experience. In contrast, CS courses maintain more of an academic focus throughout.
+
+The final year also differs slightly: SE students usually complete a major in-house project and additional electives, while CS students often concentrate on core computer science subjects along with their chosen electives.
+Answer: Initially, Software Engineering (SE) and Computer Science (CS)) programs are similar. However, from the third year onwards, key differences emerge. SE students typically undertake a full-year industrial placement to gain practical software development experience. In contrast, CS courses maintain more of an academic focus throughout.
+
+The final year also differs slightly: SE students usually complete a major in-house project and additional electives, while CS students often concentrate on core computer science subjects along with their chosen electives.
+Answer: Initially, Software Engineering (SE) and Computer Science (CS)) programs are similar. However, from the third year onwards, key differences emerge. SE students typically undertake a full-year industrial placement to gain practical software development experience. In contrast, CS courses maintain more of an academic focus throughout.
+
+The final year also differs slightly: SE students usually complete a major in-house project and additional electives, while CS students often concentrate on core computer science subjects along with their chosen electives.
+Answer: Initially, Software Engineering (SE) and Computer Science (CS)) programs are similar. However, from the third year onwards, key differences emerge. SE students typically undertake a full-year industrial placement to gain practical software development experience. In contrast, CS courses maintain more of an academic focus throughout.
+
+The final year also differs slightly: SE students usually complete a major in-house project and additional electives, while CS students often concentrate on core computer science subjects along with their chosen electives.
+Answer: Initially, Software Engineering (SE) and Computer Science (CS)) programs are similar. However, from the third year onwards, key differences emerge. SE students typically undertake a full-year industrial placement to gain practical software development experience. In contrast, CS courses maintain more of an academic focus throughout.
+
+The final year also differs slightly: SE students usually complete a major in-house project and additional electives, while CS students often concentrate on core computer science subjects along with their chosen electives.
+Answer: Initially, Software Engineering (SE) and Computer Science (CS)) programs are similar. However, from the third year onwards, key differences emerge. SE students typically undertake a full-year industrial placement to gain practical software development experience. In contrast, CS courses maintain more of an academic focus throughout.
+
+The final year also differs slightly: SE students usually complete a major in-house project and additional electives, while CS students often concentrate on core computer science
+2025-09-18 15:39:05,335 - INFO - Initiating voice response (audio format)
+2025-09-18 15:39:24,213 - INFO - Starting the voice assistant...
+2025-09-18 15:39:34,644 - INFO - User's voice query successfully recorded and store as user_voice_query.wav
+2025-09-18 15:39:38,646 - INFO - User's voice query trasncribed:  What's the difference between CS and computer size and software engineering?
+2025-09-18 15:39:38,647 - INFO - Initiating retrieval . . .
+2025-09-18 15:39:38,798 - INFO - Retrieval Completed
+2025-09-18 15:39:38,798 - INFO - Initiating response generation using Falcon
+2025-09-18 15:45:04,944 - INFO - Response generation completed (text format): The key difference between Computer Science (CS) and other related fields like Software Engineering lies primarily in their focus areas.
+
+*   **Computer Science** focuses broadly on the *fundamental concepts, theory*, and *underlying principles* of computing. It covers core topics like algorithms, data structures, programming languages, computer architecture, operating systems, artificial intelligence, machine learning, theory of computation, etc., striking a balance between theory and application in development scenarios (as per Document 1). CS programs generally offer more flexibility for customizing studies to explore specific areas deeply.
+
+*   **Computer Size/CS** – I believe you might have meant "Computer Science" or perhaps "Information Technology"? The term "computer size" isn't standard. Assuming it refers to Computer Science, the difference from other fields is as above.
+
+    However, if we interpret "Computer and Network Engineering" (mentioned in Document 2) as part of this question:
+
+*   **Engineering Degrees** (like CS with CE/Networking mentioned in Doc 2) often blend CS principles more heavily with hardware aspects or specific system implementation. They focus on designing and building systems efficiently.
+
+    So, the difference between pure Computer Science and an engineering degree combining it might involve a stronger emphasis on certain application areas alongside potentially less core theoretical depth compared to some CS programs.
+
+*   **Software Engineering** (as per Document 3) shares many foundational courses with CS initially. However, its focus becomes more explicit towards *software development practices*, project management, software design patterns, and gaining direct industry experience through internships or projects in the early-to-mid stages before potentially diverging again later for broader electives.
+
+In summary:
+*   **CS** is theory-heavy, foundational, covers all aspects of computing.
+*   **Software Engineering** focuses more on practical development processes and gaining hands-on software project experience earlier (Doc 3).
+*   The term "Computer Size" was unclear, but if it refers to Computer Science or related engineering fields like Computer Networks, the differences are as explained above.
+2025-09-18 15:45:04,945 - INFO - Initiating voice response (audio format)
+2025-09-20 07:56:44,365 - INFO - Conversation turn completed.
+2025-09-22 09:45:02,862 - INFO - Starting the voice assistant...
+2025-09-22 09:45:10,011 - INFO - User's voice query successfully recorded and store as user_voice_query.wav
+2025-09-22 09:45:14,390 - INFO - User's voice query trasncribed:  What is the computer science?
+2025-09-22 09:45:14,391 - INFO - Initiating retrieval . . .
+2025-09-22 09:45:14,579 - INFO - Retrieval Completed
+2025-09-22 09:45:14,579 - INFO - Initiating response generation using Falcon
+2025-09-22 09:48:25,199 - INFO - Response generation completed (text format): I apologize, I have no knowledge about that
+2025-09-22 09:48:25,200 - INFO - Initiating voice response (audio format)
+2025-09-22 09:48:33,854 - INFO - Conversation turn completed.
+2025-09-22 09:48:55,726 - INFO - Starting the voice assistant...
+2025-09-22 09:49:03,768 - INFO - User's voice query successfully recorded and store as user_voice_query.wav
+2025-09-22 09:49:07,595 - INFO - User's voice query trasncribed:  What's the difference between computer science and software engineering?
+2025-09-22 09:49:07,596 - INFO - Initiating retrieval . . .
+2025-09-22 09:49:07,733 - INFO - Retrieval Completed
+2025-09-22 09:49:07,733 - INFO - Initiating response generation using Falcon
+2025-09-22 09:52:41,299 - INFO - Response generation completed (text format): **
+
+Based on the retrieved documents:
+
+*   **Initial Years (First 2 years):** Both Computer Science and Software Engineering programs share very similar foundational course structures during their initial two years. This covers core topics in computing fundamentals.
+
+*     **Industry Experience:** A key difference often appears from around the third year onwards. Software Engineering students typically spend a significant portion of time, sometimes an entire year (as mentioned), doing industry internships or placements where they gain practical experience across all software development phases (like requirements analysis, design, coding, testing, deployment).
+
+*   **Final Year:** While both programs may offer electives, the final year differs slightly:
+    *   Software Engineering often culminates in a major large-scale project completed within the university.
+    *   Computer Science might place more emphasis on core theoretical courses alongside electives.
+
+In essence, while both fields share foundational similarities initially, software engineering tends to incorporate substantial industry-based practical experience earlier and focuses more heavily on applied projects later.
+2025-09-22 09:52:41,300 - INFO - Initiating voice response (audio format)
+2025-09-22 09:54:39,546 - INFO - Conversation turn completed.
+2025-09-23 15:54:35,774 - INFO - Starting the voice assistant...
+2025-09-23 15:54:42,745 - INFO - User's voice query successfully recorded and store as user_voice_query.wav
+2025-09-23 15:54:47,098 - INFO - User's voice query trasncribed:  What's the difference between computer science and software engineering?
+2025-09-23 15:54:47,098 - INFO - Initiating retrieval . . .
+2025-09-23 15:54:47,296 - INFO - Retrieval Completed
+2025-09-23 15:54:47,297 - INFO - Initiating response generation using Falcon
+2025-09-23 16:01:39,345 - INFO - Response generation completed (text format): Okay, here's a summary of the differences between Computer Science (CS) and Software Engineering (SE), based on common structures described:
+
+1.  **Initial Years (First Two):** CS and SE programs generally start with very similar core course content during the first two years. This often includes foundational subjects like mathematics, physics, discrete structures, programming fundamentals, data structures, algorithms, computer architecture, operating systems, and databases.
+
+2.  **Industry Experience:** Software Engineering programs frequently include a mandatory one-year industry placement (co-op) starting from around the second or third year onwards. During this time, students gain practical experience in software development roles across all phases of building software within an organization.
+
+3.  **Final Year Difference:**
+    *   CS graduates often complete their degree with more core theoretical courses and a significant individual project.
+    *   SE graduates typically finish with a large-scale group project (in-house), mirroring real-world engineering practices, and may have fewer mandatory core courses compared to the first two years or focus on different electives. Their experience gained during the industry placement also heavily influences their final year project choices and overall perspective.
+
+In general, CS tends to be more theory-focused, emphasizing understanding computer systems' fundamental principles, while SE is practice-focused, emphasizing applying engineering principles to build reliable and scalable software systems through both academic projects and significant real-world work.
+2025-09-23 16:01:39,362 - INFO - Initiating voice response (audio format)
+2025-09-23 16:22:30,824 - INFO - Starting the voice assistant...
+2025-09-23 16:22:38,958 - INFO - User's voice query successfully recorded and store as user_voice_query.wav
+2025-09-23 16:22:44,058 - INFO - User's voice query trasncribed:  What's the difference between computer science and software engineering?
+2025-09-23 16:22:44,059 - INFO - Initiating retrieval . . .
+2025-09-23 16:22:44,235 - INFO - Retrieval Completed
+2025-09-23 16:22:44,235 - INFO - Initiating response generation using Falcon
+2025-09-23 16:28:29,535 - INFO - Response generation completed (text format): The first couple of years in computer science and software engineering are typically similar, covering core foundational topics like mathematics, programming basics, algorithms, data structures, and system theory.
+
+However, the programs often diverge later. Software Engineering students usually spend a dedicated year gaining industry experience early on, working through all phases of software development projects. This practical focus continues into their final year, where they typically complete a major in-house project or capstone, sometimes with more electives centered around engineering practices and product delivery.
+
+Computer Science programs, while also having the initial similar years, often place greater emphasis on theoretical foundations throughout the curriculum. Computer Science students usually continue focusing heavily on core CS courses alongside electives during their final year.
+2025-09-23 16:28:29,536 - INFO - Initiating voice response (audio format)
+2025-09-23 16:31:01,742 - INFO - Starting the voice assistant...
+2025-09-23 16:32:14,131 - INFO - Starting the voice assistant...
+2025-09-23 16:32:18,805 - INFO - User's voice query successfully recorded and store as user_voice_query.wav
+2025-09-23 16:32:24,353 - INFO - User's voice query trasncribed:  What is computer science?
+2025-09-23 16:32:24,353 - INFO - Initiating retrieval . . .
+2025-09-23 16:32:24,536 - INFO - Retrieval Completed
+2025-09-23 16:32:24,537 - INFO - Initiating response generation using Falcon
+2025-09-23 16:35:13,200 - INFO - Response generation completed (text format): ' as requested and synthesize information from all three documents into a concise definition of computer science that highlights its theoretical foundations combined with practical applications, while noting the flexibility it offers for customization based on interests. This should give the user a clear understanding through natural language that can be easily spoken by an assistant.
+
+I'll make sure my answer is balanced between theory and practice since all three documents emphasize this combination. I won't introduce any information not present in these documents to keep the response accurate to what was retrieved.
+...done thinking.
+
+Answer: Computer science combines theoretical knowledge with practical application, forming a strong foundation for students while blending academic concepts and hands-on skills relevant to various ICT fields. The program offers significant flexibility for customization based on personal interests.
+2025-09-23 16:35:13,200 - INFO - Initiating voice response (audio format)
