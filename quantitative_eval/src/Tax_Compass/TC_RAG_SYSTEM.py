@@ -13,7 +13,7 @@ COLLECTION = DATA_DIR + "/collection.csv"
 
 
 # Dense Retrieval
-INDEX = "../../target/indexes/tct_colbert-v2-hnp-msmarco-faiss"
+INDEX = "../../target/indexes/tct_colbert-v2-hnp-msmarco-faiss-TaxCompass"
 QUERY_ENCODER = 'facebook/dpr-question_encoder-multiset-base'
 
 
@@ -40,12 +40,12 @@ def get_context_passages(query):
 
 def generate_answer(query, context, llm):
 
-    prompt = f"""Answer the question \"{query}\" based ONLY on the following context:\n
-    context 1: {context[0]}\n
-    context 2: {context[1]}\n
-    context 3: {context[2]}\n
+    prompt = f"""Answer the question \"{query}\" based ONLY on the information you have. The information that you have are:\n
+    information 1: {context[0]}\n
+    information 2: {context[1]}\n
+    information 3: {context[2]}\n
 
-    If the context is not related to the question or no relevant information is found, then answer with ONLY "I don't have enough information to answer that.".
+    If the all the information above do not provide enough information to answer the question, then answer with ONLY "I don't have enough information to answer that.".
 
     """
     
@@ -61,7 +61,7 @@ def main():
     llm = ChatOllama(
         model=MODEL_NAME,
         temperature=0.5,
-        system = "You are a tax expert assistant called 'Tax Compass', provides accurate answers based on the provided context."
+        system = "You are a tax expert assistant called 'Tax Compass', provide accurate answers based on the provided context."
         )
 
 
@@ -78,7 +78,7 @@ def main():
                 # Retrieval
                 context_passages = get_context_passages(query)
 
-                st.markdown("**Context Passages Retrieved:**")
+                st.markdown("**Context Passages Retrieved (for testing purposes):**")
                 for i, passage in enumerate(context_passages, 1):
                     st.markdown(f"**Document {i}:** {passage}")
                 st.write("---") 

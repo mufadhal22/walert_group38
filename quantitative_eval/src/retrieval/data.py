@@ -27,8 +27,11 @@ def create_qrels(topics_filename, groundtruth_filename):
 
 
 def create_pyserini_collection(collection_filename):
-     collection = pd.read_csv(collection_filename, encoding="latin1")
+     collection = pd.read_csv(collection_filename)
      collection.columns = ['id', 'contents']
+     collection['contents'] = collection['contents'].str.replace('�', ' ', regex=False)
+     collection['contents'] = collection['contents'].str.replace('\r\n', ' ', regex=False)
+
      collection.to_json(DATA_DIR + "/collection.jsonl", orient='records', lines=True)   
 
 def create_topics_msmarco_format(topics_filename):

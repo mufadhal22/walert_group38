@@ -2,7 +2,7 @@
 #encode
 CORPUS="../../data/collection.jsonl"
 ENCODER="tct_colbert-v2-hnp-msmarco"
-EMBEDDINGS="../../target/embeddings/$ENCODER"
+EMBEDDINGS="../../target/embeddings/$ENCODER-TaxCompass"
 
 python -m pyserini.encode \
  input   --corpus $CORPUS  \
